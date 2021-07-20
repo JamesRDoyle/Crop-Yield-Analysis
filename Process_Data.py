@@ -3,7 +3,7 @@
 
 
 # Editable variables
-base_filepath = '~/Processed_Data/'
+base_filepath = '~/Desktop/REEU_Final_Project/Processed_Data/'
 
 # Importing necessary packages
 import pandas as pd 
@@ -75,6 +75,7 @@ def create_drought_data(crop_type):
 									 'Num_Short', 'Periods_S', 'Lengths_S',
 									 'Num_Med', 'Periods_M', 'Lengths_M',
 									 'Num_Long', 'Periods_L', 'Lengths_L',
+									 'Total Precipitation',
 									 'Total Short Time', 'Total Med Time', 'Total Long Time',
 									 'Total Drought Time', 'Total Drought Percentage'])
 
@@ -115,6 +116,7 @@ def create_wheat_drought_data(yield_df, counties, years, dates, crop_type='wheat
 									 'Num_Short', 'Periods_S', 'Lengths_S',
 									 'Num_Med', 'Periods_M', 'Lengths_M',
 									 'Num_Long', 'Periods_L', 'Lengths_L',
+									 'Total Precipitation',
 									 'Total Short Time', 'Total Med Time', 'Total Long Time',
 									 'Total Drought Time', 'Total Drought Percentage'])
 	start_year = years.pop(0)
@@ -156,14 +158,18 @@ def calculate_droughts(yield_df, county, state, year, growth_season, weather_df)
 	s_date, e_date = '', ''
 	total_s, total_m, total_l = 0, 0, 0
 	num_days = 0
+	total_pcpn = 0
 
 	# Create variable counters to later store in the data dictionary
 	num_short, periods_s, lengths_s = 0, '', ''
 	num_med, periods_m, lengths_m = 0, '', ''
 	num_long, periods_l, lengths_l = 0, '', ''
 	
+	# Loop through each day in the year calculating drought/weather information
 	for day in growth_season:
-		num_days += 1
+		num_days += 1  # Increment the number of days
+		total_pcpn += weather_df.loc[day, county]  # Add the day's average precipitation
+
 		if (weather_df.loc[day, county] <= 0.00005):  # None to negligible rain -> increase drought length counter
 			if cur_len == 0:
 				s_date = day  # Start a new drought if necessary
@@ -217,6 +223,7 @@ def calculate_droughts(yield_df, county, state, year, growth_season, weather_df)
 			'Num_Short':num_short, 'Periods_S':periods_s, 'Lengths_S':lengths_s,
 			'Num_Med':num_med, 'Periods_M':periods_m, 'Lengths_M':lengths_m,
 			'Num_Long':num_long, 'Periods_L':periods_l, 'Lengths_L':lengths_l,
+			'Total Precipitation':total_pcpn,
 			'Total Short Time':total_s, 'Total Med Time':total_m, 'Total Long Time':total_l,
 			'Total Drought Time':total_drought, 
 			'Total Drought Percentage':total_drought/num_days
