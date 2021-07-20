@@ -3,7 +3,7 @@
 
 
 # Editable variables
-base_filepath = '~/Desktop/REEU_Final_Project/Processed_Data/'
+base_filepath = '~/Processed_Data/'
 
 # Importing necessary packages
 import pandas as pd 
