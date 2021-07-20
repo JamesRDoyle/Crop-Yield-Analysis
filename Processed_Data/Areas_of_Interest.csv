@@ -1,0 +1,898 @@
+State,County,Location,ANSI Code,State Initial
+Alabama,De Kalb,"De Kalb County, Alabama",01049,AL
+Alabama,Lauderdale,"Lauderdale County, Alabama",01077,AL
+Alabama,Lawrence,"Lawrence County, Alabama",01079,AL
+Alabama,Limestone,"Limestone County, Alabama",01083,AL
+Alabama,Madison,"Madison County, Alabama",01089,AL
+Arkansas,Arkansas,"Arkansas County, Arkansas",05001,AR
+Arkansas,Ashley,"Ashley County, Arkansas",05003,AR
+Arkansas,Chicot,"Chicot County, Arkansas",05017,AR
+Arkansas,Clay,"Clay County, Arkansas",05021,AR
+Arkansas,Craighead,"Craighead County, Arkansas",05031,AR
+Arkansas,Cross,"Cross County, Arkansas",05037,AR
+Arkansas,Desha,"Desha County, Arkansas",05041,AR
+Arkansas,Drew,"Drew County, Arkansas",05043,AR
+Arkansas,Greene,"Greene County, Arkansas",05055,AR
+Arkansas,Jackson,"Jackson County, Arkansas",05067,AR
+Arkansas,Jefferson,"Jefferson County, Arkansas",05069,AR
+Arkansas,Lawrence,"Lawrence County, Arkansas",05075,AR
+Arkansas,Lincoln,"Lincoln County, Arkansas",05079,AR
+Arkansas,Mississippi,"Mississippi County, Arkansas",05093,AR
+Arkansas,Monroe,"Monroe County, Arkansas",05095,AR
+Arkansas,Poinsett,"Poinsett County, Arkansas",05111,AR
+Arkansas,Prairie,"Prairie County, Arkansas",05117,AR
+Arkansas,Saint Francis,"Saint Francis County, Arkansas",05123,AR
+Arkansas,Woodruff,"Woodruff County, Arkansas",05147,AR
+California,Solano,"Solano County, California",06095,CA
+Colorado,Yuma,"Yuma County, Colorado",08125,CO
+Delaware,Kent,"Kent County, Delaware",10001,DE
+Delaware,New Castle,"New Castle County, Delaware",10003,DE
+Delaware,Sussex,"Sussex County, Delaware",10005,DE
+Georgia,Baker,"Baker County, Georgia",13007,GA
+Georgia,Burke,"Burke County, Georgia",13033,GA
+Georgia,Calhoun,"Calhoun County, Georgia",13037,GA
+Georgia,Coffee,"Coffee County, Georgia",13069,GA
+Georgia,Screven,"Screven County, Georgia",13251,GA
+Georgia,Seminole,"Seminole County, Georgia",13253,GA
+Georgia,Worth,"Worth County, Georgia",13321,GA
+Idaho,Benewah,"Benewah County, Idaho",16009,ID
+Idaho,Idaho,"Idaho County, Idaho",16049,ID
+Idaho,Lewis,"Lewis County, Idaho",16061,ID
+Idaho,Power,"Power County, Idaho",16077,ID
+Illinois,Adams,"Adams County, Illinois",17001,IL
+Illinois,Boone,"Boone County, Illinois",17007,IL
+Illinois,Brown,"Brown County, Illinois",17009,IL
+Illinois,Bureau,"Bureau County, Illinois",17011,IL
+Illinois,Carroll,"Carroll County, Illinois",17015,IL
+Illinois,Cass,"Cass County, Illinois",17017,IL
+Illinois,Champaign,"Champaign County, Illinois",17019,IL
+Illinois,Christian,"Christian County, Illinois",17021,IL
+Illinois,Clay,"Clay County, Illinois",17025,IL
+Illinois,Clinton,"Clinton County, Illinois",17027,IL
+Illinois,Coles,"Coles County, Illinois",17029,IL
+Illinois,Crawford,"Crawford County, Illinois",17033,IL
+Illinois,Cumberland,"Cumberland County, Illinois",17035,IL
+Illinois,De Kalb,"De Kalb County, Illinois",17037,IL
+Illinois,Douglas,"Douglas County, Illinois",17041,IL
+Illinois,Edgar,"Edgar County, Illinois",17045,IL
+Illinois,Effingham,"Effingham County, Illinois",17049,IL
+Illinois,Fayette,"Fayette County, Illinois",17051,IL
+Illinois,Ford,"Ford County, Illinois",17053,IL
+Illinois,Franklin,"Franklin County, Illinois",17055,IL
+Illinois,Fulton,"Fulton County, Illinois",17057,IL
+Illinois,Gallatin,"Gallatin County, Illinois",17059,IL
+Illinois,Greene,"Greene County, Illinois",17061,IL
+Illinois,Grundy,"Grundy County, Illinois",17063,IL
+Illinois,Henderson,"Henderson County, Illinois",17071,IL
+Illinois,Henry,"Henry County, Illinois",17073,IL
+Illinois,Iroquois,"Iroquois County, Illinois",17075,IL
+Illinois,Jasper,"Jasper County, Illinois",17079,IL
+Illinois,Jefferson,"Jefferson County, Illinois",17081,IL
+Illinois,Jo Daviess,"Jo Daviess County, Illinois",17085,IL
+Illinois,Kane,"Kane County, Illinois",17089,IL
+Illinois,Kankakee,"Kankakee County, Illinois",17091,IL
+Illinois,Knox,"Knox County, Illinois",17095,IL
+Illinois,La Salle,"La Salle County, Illinois",17099,IL
+Illinois,Lawrence,"Lawrence County, Illinois",17101,IL
+Illinois,Lee,"Lee County, Illinois",17103,IL
+Illinois,Livingston,"Livingston County, Illinois",17105,IL
+Illinois,Logan,"Logan County, Illinois",17107,IL
+Illinois,Macon,"Macon County, Illinois",17115,IL
+Illinois,Macoupin,"Macoupin County, Illinois",17117,IL
+Illinois,Madison,"Madison County, Illinois",17119,IL
+Illinois,Marion,"Marion County, Illinois",17121,IL
+Illinois,Marshall,"Marshall County, Illinois",17123,IL
+Illinois,Mason,"Mason County, Illinois",17125,IL
+Illinois,Mcdonough,"Mcdonough County, Illinois",17109,IL
+Illinois,Mclean,"Mclean County, Illinois",17113,IL
+Illinois,Mercer,"Mercer County, Illinois",17131,IL
+Illinois,Monroe,"Monroe County, Illinois",17133,IL
+Illinois,Montgomery,"Montgomery County, Illinois",17135,IL
+Illinois,Morgan,"Morgan County, Illinois",17137,IL
+Illinois,Moultrie,"Moultrie County, Illinois",17139,IL
+Illinois,Ogle,"Ogle County, Illinois",17141,IL
+Illinois,Peoria,"Peoria County, Illinois",17143,IL
+Illinois,Perry,"Perry County, Illinois",17145,IL
+Illinois,Piatt,"Piatt County, Illinois",17147,IL
+Illinois,Pulaski,"Pulaski County, Illinois",17153,IL
+Illinois,Randolph,"Randolph County, Illinois",17157,IL
+Illinois,Sangamon,"Sangamon County, Illinois",17167,IL
+Illinois,Schuyler,"Schuyler County, Illinois",17169,IL
+Illinois,Shelby,"Shelby County, Illinois",17173,IL
+Illinois,St Clair,"St Clair County, Illinois",17163,IL
+Illinois,Stark,"Stark County, Illinois",17175,IL
+Illinois,Stephenson,"Stephenson County, Illinois",17177,IL
+Illinois,Tazewell,"Tazewell County, Illinois",17179,IL
+Illinois,Warren,"Warren County, Illinois",17187,IL
+Illinois,Washington,"Washington County, Illinois",17189,IL
+Illinois,Wayne,"Wayne County, Illinois",17191,IL
+Illinois,White,"White County, Illinois",17193,IL
+Illinois,Whiteside,"Whiteside County, Illinois",17195,IL
+Illinois,Will,"Will County, Illinois",17197,IL
+Illinois,Williamson,"Williamson County, Illinois",17199,IL
+Illinois,Winnebago,"Winnebago County, Illinois",17201,IL
+Illinois,Woodford,"Woodford County, Illinois",17203,IL
+Indiana,Adams,"Adams County, Indiana",18001,IN
+Indiana,Allen,"Allen County, Indiana",18003,IN
+Indiana,Bartholomew,"Bartholomew County, Indiana",18005,IN
+Indiana,Benton,"Benton County, Indiana",18007,IN
+Indiana,Boone,"Boone County, Indiana",18011,IN
+Indiana,Carroll,"Carroll County, Indiana",18015,IN
+Indiana,Clark,"Clark County, Indiana",18019,IN
+Indiana,Daviess,"Daviess County, Indiana",18027,IN
+Indiana,De Kalb,"De Kalb County, Indiana",18033,IN
+Indiana,Dearborn,"Dearborn County, Indiana",18029,IN
+Indiana,Decatur,"Decatur County, Indiana",18031,IN
+Indiana,Delaware,"Delaware County, Indiana",18035,IN
+Indiana,Dubois,"Dubois County, Indiana",18037,IN
+Indiana,Fayette,"Fayette County, Indiana",18041,IN
+Indiana,Franklin,"Franklin County, Indiana",18047,IN
+Indiana,Fulton,"Fulton County, Indiana",18049,IN
+Indiana,Gibson,"Gibson County, Indiana",18051,IN
+Indiana,Hamilton,"Hamilton County, Indiana",18057,IN
+Indiana,Hancock,"Hancock County, Indiana",18059,IN
+Indiana,Harrison,"Harrison County, Indiana",18061,IN
+Indiana,Hendricks,"Hendricks County, Indiana",18063,IN
+Indiana,Howard,"Howard County, Indiana",18067,IN
+Indiana,Huntington,"Huntington County, Indiana",18069,IN
+Indiana,Jay,"Jay County, Indiana",18075,IN
+Indiana,Jennings,"Jennings County, Indiana",18079,IN
+Indiana,Kosciusko,"Kosciusko County, Indiana",18085,IN
+Indiana,La Porte,"La Porte County, Indiana",18091,IN
+Indiana,Lagrange,"Lagrange County, Indiana",18087,IN
+Indiana,Lake,"Lake County, Indiana",18089,IN
+Indiana,Madison,"Madison County, Indiana",18095,IN
+Indiana,Marshall,"Marshall County, Indiana",18099,IN
+Indiana,Miami,"Miami County, Indiana",18103,IN
+Indiana,Monroe,"Monroe County, Indiana",18105,IN
+Indiana,Montgomery,"Montgomery County, Indiana",18107,IN
+Indiana,Newton,"Newton County, Indiana",18111,IN
+Indiana,Noble,"Noble County, Indiana",18113,IN
+Indiana,Orange,"Orange County, Indiana",18117,IN
+Indiana,Porter,"Porter County, Indiana",18127,IN
+Indiana,Posey,"Posey County, Indiana",18129,IN
+Indiana,Pulaski,"Pulaski County, Indiana",18131,IN
+Indiana,Putnam,"Putnam County, Indiana",18133,IN
+Indiana,Randolph,"Randolph County, Indiana",18135,IN
+Indiana,Ripley,"Ripley County, Indiana",18137,IN
+Indiana,Rush,"Rush County, Indiana",18139,IN
+Indiana,Shelby,"Shelby County, Indiana",18145,IN
+Indiana,Spencer,"Spencer County, Indiana",18147,IN
+Indiana,St. Joseph,"St. Joseph County, Indiana",18141,IN
+Indiana,Tippecanoe,"Tippecanoe County, Indiana",18157,IN
+Indiana,Tipton,"Tipton County, Indiana",18159,IN
+Indiana,Union,"Union County, Indiana",18161,IN
+Indiana,Vanderburgh,"Vanderburgh County, Indiana",18163,IN
+Indiana,Vermillion,"Vermillion County, Indiana",18165,IN
+Indiana,Wabash,"Wabash County, Indiana",18169,IN
+Indiana,Warren,"Warren County, Indiana",18171,IN
+Indiana,Warrick,"Warrick County, Indiana",18173,IN
+Indiana,Washington,"Washington County, Indiana",18175,IN
+Indiana,Wayne,"Wayne County, Indiana",18177,IN
+Indiana,White,"White County, Indiana",18181,IN
+Indiana,Whitley,"Whitley County, Indiana",18183,IN
+Iowa,Adair,"Adair County, Iowa",19001,IA
+Iowa,Allamakee,"Allamakee County, Iowa",19005,IA
+Iowa,Audubon,"Audubon County, Iowa",19009,IA
+Iowa,Benton,"Benton County, Iowa",19011,IA
+Iowa,Black Hawk,"Black Hawk County, Iowa",19013,IA
+Iowa,Boone,"Boone County, Iowa",19015,IA
+Iowa,Bremer,"Bremer County, Iowa",19017,IA
+Iowa,Buchanan,"Buchanan County, Iowa",19019,IA
+Iowa,Buena Vista,"Buena Vista County, Iowa",19021,IA
+Iowa,Butler,"Butler County, Iowa",19023,IA
+Iowa,Calhoun,"Calhoun County, Iowa",19025,IA
+Iowa,Carroll,"Carroll County, Iowa",19027,IA
+Iowa,Cass,"Cass County, Iowa",19029,IA
+Iowa,Cedar,"Cedar County, Iowa",19031,IA
+Iowa,Cerro Gordo,"Cerro Gordo County, Iowa",19033,IA
+Iowa,Cherokee,"Cherokee County, Iowa",19035,IA
+Iowa,Chickasaw,"Chickasaw County, Iowa",19037,IA
+Iowa,Clay,"Clay County, Iowa",19041,IA
+Iowa,Clayton,"Clayton County, Iowa",19043,IA
+Iowa,Clinton,"Clinton County, Iowa",19045,IA
+Iowa,Crawford,"Crawford County, Iowa",19047,IA
+Iowa,Dallas,"Dallas County, Iowa",19049,IA
+Iowa,Davis,"Davis County, Iowa",19051,IA
+Iowa,Delaware,"Delaware County, Iowa",19055,IA
+Iowa,Des Moines,"Des Moines County, Iowa",19057,IA
+Iowa,Dickinson,"Dickinson County, Iowa",19059,IA
+Iowa,Dubuque,"Dubuque County, Iowa",19061,IA
+Iowa,Fayette,"Fayette County, Iowa",19065,IA
+Iowa,Floyd,"Floyd County, Iowa",19067,IA
+Iowa,Franklin,"Franklin County, Iowa",19069,IA
+Iowa,Greene,"Greene County, Iowa",19073,IA
+Iowa,Grundy,"Grundy County, Iowa",19075,IA
+Iowa,Guthrie,"Guthrie County, Iowa",19077,IA
+Iowa,Hamilton,"Hamilton County, Iowa",19079,IA
+Iowa,Hancock,"Hancock County, Iowa",19081,IA
+Iowa,Hardin,"Hardin County, Iowa",19083,IA
+Iowa,Henry,"Henry County, Iowa",19087,IA
+Iowa,Howard,"Howard County, Iowa",19089,IA
+Iowa,Humboldt,"Humboldt County, Iowa",19091,IA
+Iowa,Iowa,"Iowa County, Iowa",19095,IA
+Iowa,Jackson,"Jackson County, Iowa",19097,IA
+Iowa,Jefferson,"Jefferson County, Iowa",19101,IA
+Iowa,Johnson,"Johnson County, Iowa",19103,IA
+Iowa,Jones,"Jones County, Iowa",19105,IA
+Iowa,Keokuk,"Keokuk County, Iowa",19107,IA
+Iowa,Kossuth,"Kossuth County, Iowa",19109,IA
+Iowa,Lee,"Lee County, Iowa",19111,IA
+Iowa,Linn,"Linn County, Iowa",19113,IA
+Iowa,Louisa,"Louisa County, Iowa",19115,IA
+Iowa,Lyon,"Lyon County, Iowa",19119,IA
+Iowa,Madison,"Madison County, Iowa",19121,IA
+Iowa,Mahaska,"Mahaska County, Iowa",19123,IA
+Iowa,Mitchell,"Mitchell County, Iowa",19131,IA
+Iowa,Monona,"Monona County, Iowa",19133,IA
+Iowa,Monroe,"Monroe County, Iowa",19135,IA
+Iowa,Montgomery,"Montgomery County, Iowa",19137,IA
+Iowa,Muscatine,"Muscatine County, Iowa",19139,IA
+Iowa,O Brien,"O Brien County, Iowa",19141,IA
+Iowa,Osceola,"Osceola County, Iowa",19143,IA
+Iowa,Page,"Page County, Iowa",19145,IA
+Iowa,Palo Alto,"Palo Alto County, Iowa",19147,IA
+Iowa,Polk,"Polk County, Iowa",19153,IA
+Iowa,Poweshiek,"Poweshiek County, Iowa",19157,IA
+Iowa,Sac,"Sac County, Iowa",19161,IA
+Iowa,Scott,"Scott County, Iowa",19163,IA
+Iowa,Shelby,"Shelby County, Iowa",19165,IA
+Iowa,Sioux,"Sioux County, Iowa",19167,IA
+Iowa,Story,"Story County, Iowa",19169,IA
+Iowa,Tama,"Tama County, Iowa",19171,IA
+Iowa,Union,"Union County, Iowa",19175,IA
+Iowa,Van Buren,"Van Buren County, Iowa",19177,IA
+Iowa,Wapello,"Wapello County, Iowa",19179,IA
+Iowa,Warren,"Warren County, Iowa",19181,IA
+Iowa,Washington,"Washington County, Iowa",19183,IA
+Iowa,Webster,"Webster County, Iowa",19187,IA
+Iowa,Winnebago,"Winnebago County, Iowa",19189,IA
+Iowa,Winneshiek,"Winneshiek County, Iowa",19191,IA
+Iowa,Woodbury,"Woodbury County, Iowa",19193,IA
+Iowa,Worth,"Worth County, Iowa",19195,IA
+Iowa,Wright,"Wright County, Iowa",19197,IA
+Kansas,Anderson,"Anderson County, Kansas",20003,KS
+Kansas,Atchison,"Atchison County, Kansas",20005,KS
+Kansas,Barton,"Barton County, Kansas",20009,KS
+Kansas,Brown,"Brown County, Kansas",20013,KS
+Kansas,Butler,"Butler County, Kansas",20015,KS
+Kansas,Clay,"Clay County, Kansas",20027,KS
+Kansas,Dickinson,"Dickinson County, Kansas",20041,KS
+Kansas,Douglas,"Douglas County, Kansas",20045,KS
+Kansas,Harvey,"Harvey County, Kansas",20079,KS
+Kansas,Jackson,"Jackson County, Kansas",20085,KS
+Kansas,Jewell,"Jewell County, Kansas",20089,KS
+Kansas,Leavenworth,"Leavenworth County, Kansas",20103,KS
+Kansas,Marion,"Marion County, Kansas",20115,KS
+Kansas,Marshall,"Marshall County, Kansas",20117,KS
+Kansas,Mcpherson,"Mcpherson County, Kansas",20113,KS
+Kansas,Miami,"Miami County, Kansas",20121,KS
+Kansas,Mitchell,"Mitchell County, Kansas",20123,KS
+Kansas,Morris,"Morris County, Kansas",20127,KS
+Kansas,Morton,"Morton County, Kansas",20129,KS
+Kansas,Osage,"Osage County, Kansas",20139,KS
+Kansas,Ottawa,"Ottawa County, Kansas",20143,KS
+Kansas,Pawnee,"Pawnee County, Kansas",20145,KS
+Kansas,Pottawatomie,"Pottawatomie County, Kansas",20149,KS
+Kansas,Reno,"Reno County, Kansas",20155,KS
+Kansas,Republic,"Republic County, Kansas",20157,KS
+Kansas,Saline,"Saline County, Kansas",20169,KS
+Kansas,Sedgwick,"Sedgwick County, Kansas",20173,KS
+Kansas,Shawnee,"Shawnee County, Kansas",20177,KS
+Kansas,Sherman,"Sherman County, Kansas",20181,KS
+Kansas,Sumner,"Sumner County, Kansas",20191,KS
+Kentucky,Boone,"Boone County, Kentucky",21015,KY
+Kentucky,Breckinridge,"Breckinridge County, Kentucky",21027,KY
+Kentucky,Bullitt,"Bullitt County, Kentucky",21029,KY
+Kentucky,Butler,"Butler County, Kentucky",21031,KY
+Kentucky,Caldwell,"Caldwell County, Kentucky",21033,KY
+Kentucky,Calloway,"Calloway County, Kentucky",21035,KY
+Kentucky,Christian,"Christian County, Kentucky",21047,KY
+Kentucky,Clark,"Clark County, Kentucky",21049,KY
+Kentucky,Daviess,"Daviess County, Kentucky",21059,KY
+Kentucky,Edmonson,"Edmonson County, Kentucky",21061,KY
+Kentucky,Fayette,"Fayette County, Kentucky",21067,KY
+Kentucky,Fulton,"Fulton County, Kentucky",21075,KY
+Kentucky,Hardin,"Hardin County, Kentucky",21093,KY
+Kentucky,Hart,"Hart County, Kentucky",21099,KY
+Kentucky,Henry,"Henry County, Kentucky",21103,KY
+Kentucky,Hickman,"Hickman County, Kentucky",21105,KY
+Kentucky,Logan,"Logan County, Kentucky",21141,KY
+Kentucky,Marion,"Marion County, Kentucky",21155,KY
+Kentucky,Mason,"Mason County, Kentucky",21161,KY
+Kentucky,Meade,"Meade County, Kentucky",21163,KY
+Kentucky,Ohio,"Ohio County, Kentucky",21183,KY
+Kentucky,Oldham,"Oldham County, Kentucky",21185,KY
+Kentucky,Pulaski,"Pulaski County, Kentucky",21199,KY
+Kentucky,Russell,"Russell County, Kentucky",21207,KY
+Kentucky,Shelby,"Shelby County, Kentucky",21211,KY
+Kentucky,Simpson,"Simpson County, Kentucky",21213,KY
+Kentucky,Todd,"Todd County, Kentucky",21219,KY
+Kentucky,Trigg,"Trigg County, Kentucky",21221,KY
+Kentucky,Trimble,"Trimble County, Kentucky",21223,KY
+Kentucky,Union,"Union County, Kentucky",21225,KY
+Kentucky,Warren,"Warren County, Kentucky",21227,KY
+Kentucky,Wayne,"Wayne County, Kentucky",21231,KY
+Kentucky,Webster,"Webster County, Kentucky",21233,KY
+Kentucky,Woodford,"Woodford County, Kentucky",21239,KY
+Louisiana,Acadia,"Acadia County, Louisiana",22001,LA
+Louisiana,Avoyelles,"Avoyelles County, Louisiana",22009,LA
+Louisiana,Caddo,"Caddo County, Louisiana",22017,LA
+Louisiana,Catahoula,"Catahoula County, Louisiana",22025,LA
+Louisiana,Concordia,"Concordia County, Louisiana",22029,LA
+Louisiana,East Carroll,"East Carroll County, Louisiana",22035,LA
+Louisiana,Franklin,"Franklin County, Louisiana",22041,LA
+Louisiana,Madison,"Madison County, Louisiana",22065,LA
+Louisiana,Morehouse,"Morehouse County, Louisiana",22067,LA
+Louisiana,Pointe Coupee,"Pointe Coupee County, Louisiana",22077,LA
+Louisiana,Rapides,"Rapides County, Louisiana",22079,LA
+Louisiana,Richland,"Richland County, Louisiana",22083,LA
+Louisiana,Saint Landry,"Saint Landry County, Louisiana",22097,LA
+Louisiana,Saint Martin,"Saint Martin County, Louisiana",22099,LA
+Louisiana,Tensas,"Tensas County, Louisiana",22107,LA
+Louisiana,West Carroll,"West Carroll County, Louisiana",22123,LA
+Maryland,Caroline,"Caroline County, Maryland",24011,MD
+Maryland,Carroll,"Carroll County, Maryland",24013,MD
+Maryland,Dorchester,"Dorchester County, Maryland",24019,MD
+Maryland,Frederick,"Frederick County, Maryland",24021,MD
+Maryland,Harford,"Harford County, Maryland",24025,MD
+Maryland,Kent,"Kent County, Maryland",24029,MD
+Maryland,Somerset,"Somerset County, Maryland",24039,MD
+Maryland,Wicomico,"Wicomico County, Maryland",24045,MD
+Maryland,Worcester,"Worcester County, Maryland",24047,MD
+Michigan,Allegan,"Allegan County, Michigan",26005,MI
+Michigan,Arenac,"Arenac County, Michigan",26011,MI
+Michigan,Barry,"Barry County, Michigan",26015,MI
+Michigan,Bay,"Bay County, Michigan",26017,MI
+Michigan,Branch,"Branch County, Michigan",26023,MI
+Michigan,Calhoun,"Calhoun County, Michigan",26025,MI
+Michigan,Cass,"Cass County, Michigan",26027,MI
+Michigan,Clinton,"Clinton County, Michigan",26037,MI
+Michigan,Eaton,"Eaton County, Michigan",26045,MI
+Michigan,Genesee,"Genesee County, Michigan",26049,MI
+Michigan,Gratiot,"Gratiot County, Michigan",26057,MI
+Michigan,Hillsdale,"Hillsdale County, Michigan",26059,MI
+Michigan,Huron,"Huron County, Michigan",26063,MI
+Michigan,Ingham,"Ingham County, Michigan",26065,MI
+Michigan,Ionia,"Ionia County, Michigan",26067,MI
+Michigan,Isabella,"Isabella County, Michigan",26073,MI
+Michigan,Jackson,"Jackson County, Michigan",26075,MI
+Michigan,Kalamazoo,"Kalamazoo County, Michigan",26077,MI
+Michigan,Kent,"Kent County, Michigan",26081,MI
+Michigan,Lapeer,"Lapeer County, Michigan",26087,MI
+Michigan,Lenawee,"Lenawee County, Michigan",26091,MI
+Michigan,Livingston,"Livingston County, Michigan",26093,MI
+Michigan,Macomb,"Macomb County, Michigan",26099,MI
+Michigan,Mason,"Mason County, Michigan",26105,MI
+Michigan,Mecosta,"Mecosta County, Michigan",26107,MI
+Michigan,Midland,"Midland County, Michigan",26111,MI
+Michigan,Monroe,"Monroe County, Michigan",26115,MI
+Michigan,Montcalm,"Montcalm County, Michigan",26117,MI
+Michigan,Newaygo,"Newaygo County, Michigan",26123,MI
+Michigan,Saginaw,"Saginaw County, Michigan",26145,MI
+Michigan,Sanilac,"Sanilac County, Michigan",26151,MI
+Michigan,Shiawassee,"Shiawassee County, Michigan",26155,MI
+Michigan,St Clair,"St Clair County, Michigan",26147,MI
+Michigan,Tuscola,"Tuscola County, Michigan",26157,MI
+Michigan,Washtenaw,"Washtenaw County, Michigan",26161,MI
+Minnesota,Benton,"Benton County, Minnesota",27009,MN
+Minnesota,Big Stone,"Big Stone County, Minnesota",27011,MN
+Minnesota,Blue Earth,"Blue Earth County, Minnesota",27013,MN
+Minnesota,Brown,"Brown County, Minnesota",27015,MN
+Minnesota,Carver,"Carver County, Minnesota",27019,MN
+Minnesota,Chippewa,"Chippewa County, Minnesota",27023,MN
+Minnesota,Chisago,"Chisago County, Minnesota",27025,MN
+Minnesota,Clay,"Clay County, Minnesota",27027,MN
+Minnesota,Cottonwood,"Cottonwood County, Minnesota",27033,MN
+Minnesota,Dakota,"Dakota County, Minnesota",27037,MN
+Minnesota,Dodge,"Dodge County, Minnesota",27039,MN
+Minnesota,Faribault,"Faribault County, Minnesota",27043,MN
+Minnesota,Fillmore,"Fillmore County, Minnesota",27045,MN
+Minnesota,Freeborn,"Freeborn County, Minnesota",27047,MN
+Minnesota,Goodhue,"Goodhue County, Minnesota",27049,MN
+Minnesota,Hennepin,"Hennepin County, Minnesota",27053,MN
+Minnesota,Houston,"Houston County, Minnesota",27055,MN
+Minnesota,Isanti,"Isanti County, Minnesota",27059,MN
+Minnesota,Jackson,"Jackson County, Minnesota",27063,MN
+Minnesota,Lac Qui Parle,"Lac Qui Parle County, Minnesota",27073,MN
+Minnesota,Lyon,"Lyon County, Minnesota",27083,MN
+Minnesota,Marshall,"Marshall County, Minnesota",27089,MN
+Minnesota,Martin,"Martin County, Minnesota",27091,MN
+Minnesota,Mcleod,"Mcleod County, Minnesota",27085,MN
+Minnesota,Morrison,"Morrison County, Minnesota",27097,MN
+Minnesota,Mower,"Mower County, Minnesota",27099,MN
+Minnesota,Murray,"Murray County, Minnesota",27101,MN
+Minnesota,Nicollet,"Nicollet County, Minnesota",27103,MN
+Minnesota,Nobles,"Nobles County, Minnesota",27105,MN
+Minnesota,Olmsted,"Olmsted County, Minnesota",27109,MN
+Minnesota,Otter Tail,"Otter Tail County, Minnesota",27111,MN
+Minnesota,Polk,"Polk County, Minnesota",27119,MN
+Minnesota,Pope,"Pope County, Minnesota",27121,MN
+Minnesota,Redwood,"Redwood County, Minnesota",27127,MN
+Minnesota,Renville,"Renville County, Minnesota",27129,MN
+Minnesota,Rock,"Rock County, Minnesota",27133,MN
+Minnesota,Sibley,"Sibley County, Minnesota",27143,MN
+Minnesota,Stearns,"Stearns County, Minnesota",27145,MN
+Minnesota,Steele,"Steele County, Minnesota",27147,MN
+Minnesota,Stevens,"Stevens County, Minnesota",27149,MN
+Minnesota,Swift,"Swift County, Minnesota",27151,MN
+Minnesota,Todd,"Todd County, Minnesota",27153,MN
+Minnesota,Traverse,"Traverse County, Minnesota",27155,MN
+Minnesota,Wabasha,"Wabasha County, Minnesota",27157,MN
+Minnesota,Wadena,"Wadena County, Minnesota",27159,MN
+Minnesota,Waseca,"Waseca County, Minnesota",27161,MN
+Minnesota,Washington,"Washington County, Minnesota",27163,MN
+Minnesota,Watonwan,"Watonwan County, Minnesota",27165,MN
+Minnesota,Winona,"Winona County, Minnesota",27169,MN
+Minnesota,Yellow Medicine,"Yellow Medicine County, Minnesota",27173,MN
+Mississippi,Alcorn,"Alcorn County, Mississippi",28003,MS
+Mississippi,Benton,"Benton County, Mississippi",28009,MS
+Mississippi,Bolivar,"Bolivar County, Mississippi",28011,MS
+Mississippi,Calhoun,"Calhoun County, Mississippi",28013,MS
+Mississippi,Carroll,"Carroll County, Mississippi",28015,MS
+Mississippi,Coahoma,"Coahoma County, Mississippi",28027,MS
+Mississippi,De Soto,"De Soto County, Mississippi",28033,MS
+Mississippi,Hinds,"Hinds County, Mississippi",28049,MS
+Mississippi,Holmes,"Holmes County, Mississippi",28051,MS
+Mississippi,Humphreys,"Humphreys County, Mississippi",28053,MS
+Mississippi,Issaquena,"Issaquena County, Mississippi",28055,MS
+Mississippi,Leflore,"Leflore County, Mississippi",28083,MS
+Mississippi,Lowndes,"Lowndes County, Mississippi",28087,MS
+Mississippi,Madison,"Madison County, Mississippi",28089,MS
+Mississippi,Marshall,"Marshall County, Mississippi",28093,MS
+Mississippi,Monroe,"Monroe County, Mississippi",28095,MS
+Mississippi,Noxubee,"Noxubee County, Mississippi",28103,MS
+Mississippi,Panola,"Panola County, Mississippi",28107,MS
+Mississippi,Pontotoc,"Pontotoc County, Mississippi",28115,MS
+Mississippi,Prentiss,"Prentiss County, Mississippi",28117,MS
+Mississippi,Quitman,"Quitman County, Mississippi",28119,MS
+Mississippi,Sharkey,"Sharkey County, Mississippi",28125,MS
+Mississippi,Sunflower,"Sunflower County, Mississippi",28133,MS
+Mississippi,Tallahatchie,"Tallahatchie County, Mississippi",28135,MS
+Mississippi,Tate,"Tate County, Mississippi",28137,MS
+Mississippi,Tunica,"Tunica County, Mississippi",28143,MS
+Mississippi,Union,"Union County, Mississippi",28145,MS
+Mississippi,Washington,"Washington County, Mississippi",28151,MS
+Mississippi,Yazoo,"Yazoo County, Mississippi",28163,MS
+Missouri,Audrain,"Audrain County, Missouri",29007,MO
+Missouri,Barton,"Barton County, Missouri",29011,MO
+Missouri,Boone,"Boone County, Missouri",29019,MO
+Missouri,Carroll,"Carroll County, Missouri",29033,MO
+Missouri,Clinton,"Clinton County, Missouri",29049,MO
+Missouri,Cole,"Cole County, Missouri",29051,MO
+Missouri,Cooper,"Cooper County, Missouri",29053,MO
+Missouri,Dade,"Dade County, Missouri",29057,MO
+Missouri,Dunklin,"Dunklin County, Missouri",29069,MO
+Missouri,Gasconade,"Gasconade County, Missouri",29073,MO
+Missouri,Jefferson,"Jefferson County, Missouri",29099,MO
+Missouri,Lafayette,"Lafayette County, Missouri",29107,MO
+Missouri,Lawrence,"Lawrence County, Missouri",29109,MO
+Missouri,Livingston,"Livingston County, Missouri",29117,MO
+Missouri,Miller,"Miller County, Missouri",29131,MO
+Missouri,Mississippi,"Mississippi County, Missouri",29133,MO
+Missouri,Morgan,"Morgan County, Missouri",29141,MO
+Missouri,New Madrid,"New Madrid County, Missouri",29143,MO
+Missouri,Newton,"Newton County, Missouri",29145,MO
+Missouri,Osage,"Osage County, Missouri",29151,MO
+Missouri,Pemiscot,"Pemiscot County, Missouri",29155,MO
+Missouri,Pettis,"Pettis County, Missouri",29159,MO
+Missouri,Polk,"Polk County, Missouri",29167,MO
+Missouri,Saline,"Saline County, Missouri",29195,MO
+Missouri,St Charles,"St Charles County, Missouri",29183,MO
+Missouri,Ste Genevieve,"Ste Genevieve County, Missouri",29186,MO
+Missouri,Stoddard,"Stoddard County, Missouri",29207,MO
+Montana,Cascade,"Cascade County, Montana",30013,MT
+Montana,Chouteau,"Chouteau County, Montana",30015,MT
+Montana,Fergus,"Fergus County, Montana",30027,MT
+Montana,Hill,"Hill County, Montana",30041,MT
+Montana,Judith Basin,"Judith Basin County, Montana",30045,MT
+Montana,Liberty,"Liberty County, Montana",30051,MT
+Montana,Pondera,"Pondera County, Montana",30073,MT
+Montana,Stillwater,"Stillwater County, Montana",30095,MT
+Montana,Teton,"Teton County, Montana",30099,MT
+Nebraska,Adams,"Adams County, Nebraska",31001,NE
+Nebraska,Boone,"Boone County, Nebraska",31011,NE
+Nebraska,Box Butte,"Box Butte County, Nebraska",31013,NE
+Nebraska,Buffalo,"Buffalo County, Nebraska",31019,NE
+Nebraska,Burt,"Burt County, Nebraska",31021,NE
+Nebraska,Butler,"Butler County, Nebraska",31023,NE
+Nebraska,Cass,"Cass County, Nebraska",31025,NE
+Nebraska,Cedar,"Cedar County, Nebraska",31027,NE
+Nebraska,Chase,"Chase County, Nebraska",31029,NE
+Nebraska,Clay,"Clay County, Nebraska",31035,NE
+Nebraska,Colfax,"Colfax County, Nebraska",31037,NE
+Nebraska,Cuming,"Cuming County, Nebraska",31039,NE
+Nebraska,Custer,"Custer County, Nebraska",31041,NE
+Nebraska,Dawson,"Dawson County, Nebraska",31047,NE
+Nebraska,Dodge,"Dodge County, Nebraska",31053,NE
+Nebraska,Douglas,"Douglas County, Nebraska",31055,NE
+Nebraska,Dundy,"Dundy County, Nebraska",31057,NE
+Nebraska,Fillmore,"Fillmore County, Nebraska",31059,NE
+Nebraska,Franklin,"Franklin County, Nebraska",31061,NE
+Nebraska,Furnas,"Furnas County, Nebraska",31065,NE
+Nebraska,Gage,"Gage County, Nebraska",31067,NE
+Nebraska,Garfield,"Garfield County, Nebraska",31071,NE
+Nebraska,Greeley,"Greeley County, Nebraska",31077,NE
+Nebraska,Hall,"Hall County, Nebraska",31079,NE
+Nebraska,Hamilton,"Hamilton County, Nebraska",31081,NE
+Nebraska,Harlan,"Harlan County, Nebraska",31083,NE
+Nebraska,Hayes,"Hayes County, Nebraska",31085,NE
+Nebraska,Hitchcock,"Hitchcock County, Nebraska",31087,NE
+Nebraska,Holt,"Holt County, Nebraska",31089,NE
+Nebraska,Howard,"Howard County, Nebraska",31093,NE
+Nebraska,Jefferson,"Jefferson County, Nebraska",31095,NE
+Nebraska,Johnson,"Johnson County, Nebraska",31097,NE
+Nebraska,Kearney,"Kearney County, Nebraska",31099,NE
+Nebraska,Keith,"Keith County, Nebraska",31101,NE
+Nebraska,Keya Paha,"Keya Paha County, Nebraska",31103,NE
+Nebraska,Knox,"Knox County, Nebraska",31107,NE
+Nebraska,Lancaster,"Lancaster County, Nebraska",31109,NE
+Nebraska,Lincoln,"Lincoln County, Nebraska",31111,NE
+Nebraska,Logan,"Logan County, Nebraska",31113,NE
+Nebraska,Madison,"Madison County, Nebraska",31119,NE
+Nebraska,Merrick,"Merrick County, Nebraska",31121,NE
+Nebraska,Morrill,"Morrill County, Nebraska",31123,NE
+Nebraska,Nemaha,"Nemaha County, Nebraska",31127,NE
+Nebraska,Nuckolls,"Nuckolls County, Nebraska",31129,NE
+Nebraska,Otoe,"Otoe County, Nebraska",31131,NE
+Nebraska,Pawnee,"Pawnee County, Nebraska",31133,NE
+Nebraska,Perkins,"Perkins County, Nebraska",31135,NE
+Nebraska,Phelps,"Phelps County, Nebraska",31137,NE
+Nebraska,Pierce,"Pierce County, Nebraska",31139,NE
+Nebraska,Platte,"Platte County, Nebraska",31141,NE
+Nebraska,Richardson,"Richardson County, Nebraska",31147,NE
+Nebraska,Saline,"Saline County, Nebraska",31151,NE
+Nebraska,Saunders,"Saunders County, Nebraska",31155,NE
+Nebraska,Scotts Bluff,"Scotts Bluff County, Nebraska",31157,NE
+Nebraska,Seward,"Seward County, Nebraska",31159,NE
+Nebraska,Sheridan,"Sheridan County, Nebraska",31161,NE
+Nebraska,Sherman,"Sherman County, Nebraska",31163,NE
+Nebraska,Stanton,"Stanton County, Nebraska",31167,NE
+Nebraska,Thayer,"Thayer County, Nebraska",31169,NE
+Nebraska,Washington,"Washington County, Nebraska",31177,NE
+Nebraska,Wayne,"Wayne County, Nebraska",31179,NE
+Nebraska,Webster,"Webster County, Nebraska",31181,NE
+Nebraska,York,"York County, Nebraska",31185,NE
+New Jersey,Burlington,"Burlington County, New Jersey",34005,NJ
+New Jersey,Hunterdon,"Hunterdon County, New Jersey",34019,NJ
+New Jersey,Salem,"Salem County, New Jersey",34033,NJ
+New Jersey,Warren,"Warren County, New Jersey",34041,NJ
+New York,Cayuga,"Cayuga County, New York",36011,NY
+New York,Jefferson,"Jefferson County, New York",36045,NY
+New York,Oneida,"Oneida County, New York",36065,NY
+New York,Onondaga,"Onondaga County, New York",36067,NY
+New York,Steuben,"Steuben County, New York",36101,NY
+New York,Wayne,"Wayne County, New York",36117,NY
+North Carolina,Alamance,"Alamance County, North Carolina",37001,NC
+North Carolina,Beaufort,"Beaufort County, North Carolina",37013,NC
+North Carolina,Bertie,"Bertie County, North Carolina",37015,NC
+North Carolina,Bladen,"Bladen County, North Carolina",37017,NC
+North Carolina,Brunswick,"Brunswick County, North Carolina",37019,NC
+North Carolina,Burke,"Burke County, North Carolina",37023,NC
+North Carolina,Cabarrus,"Cabarrus County, North Carolina",37025,NC
+North Carolina,Camden,"Camden County, North Carolina",37029,NC
+North Carolina,Catawba,"Catawba County, North Carolina",37035,NC
+North Carolina,Craven,"Craven County, North Carolina",37049,NC
+North Carolina,Currituck,"Currituck County, North Carolina",37053,NC
+North Carolina,Davidson,"Davidson County, North Carolina",37057,NC
+North Carolina,Davie,"Davie County, North Carolina",37059,NC
+North Carolina,Edgecombe,"Edgecombe County, North Carolina",37065,NC
+North Carolina,Franklin,"Franklin County, North Carolina",37069,NC
+North Carolina,Gates,"Gates County, North Carolina",37073,NC
+North Carolina,Granville,"Granville County, North Carolina",37077,NC
+North Carolina,Greene,"Greene County, North Carolina",37079,NC
+North Carolina,Guilford,"Guilford County, North Carolina",37081,NC
+North Carolina,Halifax,"Halifax County, North Carolina",37083,NC
+North Carolina,Harnett,"Harnett County, North Carolina",37085,NC
+North Carolina,Johnston,"Johnston County, North Carolina",37101,NC
+North Carolina,Lenoir,"Lenoir County, North Carolina",37107,NC
+North Carolina,Lincoln,"Lincoln County, North Carolina",37109,NC
+North Carolina,Martin,"Martin County, North Carolina",37117,NC
+North Carolina,Nash,"Nash County, North Carolina",37127,NC
+North Carolina,Northampton,"Northampton County, North Carolina",37131,NC
+North Carolina,Onslow,"Onslow County, North Carolina",37133,NC
+North Carolina,Orange,"Orange County, North Carolina",37135,NC
+North Carolina,Pamlico,"Pamlico County, North Carolina",37137,NC
+North Carolina,Pasquotank,"Pasquotank County, North Carolina",37139,NC
+North Carolina,Perquimans,"Perquimans County, North Carolina",37143,NC
+North Carolina,Person,"Person County, North Carolina",37145,NC
+North Carolina,Pitt,"Pitt County, North Carolina",37147,NC
+North Carolina,Randolph,"Randolph County, North Carolina",37151,NC
+North Carolina,Robeson,"Robeson County, North Carolina",37155,NC
+North Carolina,Rockingham,"Rockingham County, North Carolina",37157,NC
+North Carolina,Rowan,"Rowan County, North Carolina",37159,NC
+North Carolina,Sampson,"Sampson County, North Carolina",37163,NC
+North Carolina,Stanly,"Stanly County, North Carolina",37167,NC
+North Carolina,Surry,"Surry County, North Carolina",37171,NC
+North Carolina,Union,"Union County, North Carolina",37179,NC
+North Carolina,Vance,"Vance County, North Carolina",37181,NC
+North Carolina,Wake,"Wake County, North Carolina",37183,NC
+North Carolina,Warren,"Warren County, North Carolina",37185,NC
+North Carolina,Washington,"Washington County, North Carolina",37187,NC
+North Carolina,Wayne,"Wayne County, North Carolina",37191,NC
+North Carolina,Wilson,"Wilson County, North Carolina",37195,NC
+North Carolina,Yadkin,"Yadkin County, North Carolina",37197,NC
+North Dakota,Barnes,"Barnes County, North Dakota",38003,ND
+North Dakota,Cass,"Cass County, North Dakota",38017,ND
+North Dakota,Dickey,"Dickey County, North Dakota",38021,ND
+North Dakota,Grand Forks,"Grand Forks County, North Dakota",38035,ND
+North Dakota,Griggs,"Griggs County, North Dakota",38039,ND
+North Dakota,La Moure,"La Moure County, North Dakota",38045,ND
+North Dakota,Nelson,"Nelson County, North Dakota",38063,ND
+North Dakota,Pembina,"Pembina County, North Dakota",38067,ND
+North Dakota,Richland,"Richland County, North Dakota",38077,ND
+North Dakota,Sargent,"Sargent County, North Dakota",38081,ND
+North Dakota,Steele,"Steele County, North Dakota",38091,ND
+North Dakota,Stutsman,"Stutsman County, North Dakota",38093,ND
+North Dakota,Traill,"Traill County, North Dakota",38097,ND
+Ohio,Adams,"Adams County, Ohio",39001,OH
+Ohio,Allen,"Allen County, Ohio",39003,OH
+Ohio,Ashtabula,"Ashtabula County, Ohio",39007,OH
+Ohio,Athens,"Athens County, Ohio",39009,OH
+Ohio,Auglaize,"Auglaize County, Ohio",39011,OH
+Ohio,Brown,"Brown County, Ohio",39015,OH
+Ohio,Champaign,"Champaign County, Ohio",39021,OH
+Ohio,Clark,"Clark County, Ohio",39023,OH
+Ohio,Clermont,"Clermont County, Ohio",39025,OH
+Ohio,Clinton,"Clinton County, Ohio",39027,OH
+Ohio,Columbiana,"Columbiana County, Ohio",39029,OH
+Ohio,Coshocton,"Coshocton County, Ohio",39031,OH
+Ohio,Crawford,"Crawford County, Ohio",39033,OH
+Ohio,Darke,"Darke County, Ohio",39037,OH
+Ohio,Defiance,"Defiance County, Ohio",39039,OH
+Ohio,Delaware,"Delaware County, Ohio",39041,OH
+Ohio,Fairfield,"Fairfield County, Ohio",39045,OH
+Ohio,Fulton,"Fulton County, Ohio",39051,OH
+Ohio,Greene,"Greene County, Ohio",39057,OH
+Ohio,Hancock,"Hancock County, Ohio",39063,OH
+Ohio,Hardin,"Hardin County, Ohio",39065,OH
+Ohio,Henry,"Henry County, Ohio",39069,OH
+Ohio,Highland,"Highland County, Ohio",39071,OH
+Ohio,Holmes,"Holmes County, Ohio",39075,OH
+Ohio,Huron,"Huron County, Ohio",39077,OH
+Ohio,Knox,"Knox County, Ohio",39083,OH
+Ohio,Licking,"Licking County, Ohio",39089,OH
+Ohio,Logan,"Logan County, Ohio",39091,OH
+Ohio,Lorain,"Lorain County, Ohio",39093,OH
+Ohio,Lucas,"Lucas County, Ohio",39095,OH
+Ohio,Madison,"Madison County, Ohio",39097,OH
+Ohio,Mahoning,"Mahoning County, Ohio",39099,OH
+Ohio,Marion,"Marion County, Ohio",39101,OH
+Ohio,Medina,"Medina County, Ohio",39103,OH
+Ohio,Mercer,"Mercer County, Ohio",39107,OH
+Ohio,Miami,"Miami County, Ohio",39109,OH
+Ohio,Montgomery,"Montgomery County, Ohio",39113,OH
+Ohio,Morgan,"Morgan County, Ohio",39115,OH
+Ohio,Muskingum,"Muskingum County, Ohio",39119,OH
+Ohio,Ottawa,"Ottawa County, Ohio",39123,OH
+Ohio,Paulding,"Paulding County, Ohio",39125,OH
+Ohio,Pickaway,"Pickaway County, Ohio",39129,OH
+Ohio,Portage,"Portage County, Ohio",39133,OH
+Ohio,Preble,"Preble County, Ohio",39135,OH
+Ohio,Putnam,"Putnam County, Ohio",39137,OH
+Ohio,Ross,"Ross County, Ohio",39141,OH
+Ohio,Sandusky,"Sandusky County, Ohio",39143,OH
+Ohio,Seneca,"Seneca County, Ohio",39147,OH
+Ohio,Shelby,"Shelby County, Ohio",39149,OH
+Ohio,Stark,"Stark County, Ohio",39151,OH
+Ohio,Trumbull,"Trumbull County, Ohio",39155,OH
+Ohio,Tuscarawas,"Tuscarawas County, Ohio",39157,OH
+Ohio,Union,"Union County, Ohio",39159,OH
+Ohio,Van Wert,"Van Wert County, Ohio",39161,OH
+Ohio,Warren,"Warren County, Ohio",39165,OH
+Ohio,Washington,"Washington County, Ohio",39167,OH
+Ohio,Wayne,"Wayne County, Ohio",39169,OH
+Ohio,Williams,"Williams County, Ohio",39171,OH
+Ohio,Wood,"Wood County, Ohio",39173,OH
+Ohio,Wyandot,"Wyandot County, Ohio",39175,OH
+Oklahoma,Blaine,"Blaine County, Oklahoma",40011,OK
+Oklahoma,Cotton,"Cotton County, Oklahoma",40033,OK
+Oklahoma,Craig,"Craig County, Oklahoma",40035,OK
+Oklahoma,Custer,"Custer County, Oklahoma",40039,OK
+Oklahoma,Dewey,"Dewey County, Oklahoma",40043,OK
+Oklahoma,Grady,"Grady County, Oklahoma",40051,OK
+Oklahoma,Grant,"Grant County, Oklahoma",40053,OK
+Oklahoma,Kay,"Kay County, Oklahoma",40071,OK
+Oklahoma,Kingfisher,"Kingfisher County, Oklahoma",40073,OK
+Oklahoma,Kiowa,"Kiowa County, Oklahoma",40075,OK
+Oklahoma,Logan,"Logan County, Oklahoma",40083,OK
+Oklahoma,Muskogee,"Muskogee County, Oklahoma",40101,OK
+Oklahoma,Noble,"Noble County, Oklahoma",40103,OK
+Oklahoma,Sequoyah,"Sequoyah County, Oklahoma",40135,OK
+Oklahoma,Washington,"Washington County, Oklahoma",40147,OK
+Oklahoma,Woods,"Woods County, Oklahoma",40151,OK
+Oregon,Gilliam,"Gilliam County, Oregon",41021,OR
+Oregon,Morrow,"Morrow County, Oregon",41049,OR
+Oregon,Sherman,"Sherman County, Oregon",41055,OR
+Oregon,Umatilla,"Umatilla County, Oregon",41059,OR
+Oregon,Wasco,"Wasco County, Oregon",41065,OR
+Pennsylvania,Adams,"Adams County, Pennsylvania",42001,PA
+Pennsylvania,Armstrong,"Armstrong County, Pennsylvania",42005,PA
+Pennsylvania,Berks,"Berks County, Pennsylvania",42011,PA
+Pennsylvania,Blair,"Blair County, Pennsylvania",42013,PA
+Pennsylvania,Centre,"Centre County, Pennsylvania",42027,PA
+Pennsylvania,Chester,"Chester County, Pennsylvania",42029,PA
+Pennsylvania,Cumberland,"Cumberland County, Pennsylvania",42041,PA
+Pennsylvania,Franklin,"Franklin County, Pennsylvania",42055,PA
+Pennsylvania,Huntingdon,"Huntingdon County, Pennsylvania",42061,PA
+Pennsylvania,Juniata,"Juniata County, Pennsylvania",42067,PA
+Pennsylvania,Lancaster,"Lancaster County, Pennsylvania",42071,PA
+Pennsylvania,Lebanon,"Lebanon County, Pennsylvania",42075,PA
+Pennsylvania,Lehigh,"Lehigh County, Pennsylvania",42077,PA
+Pennsylvania,Mercer,"Mercer County, Pennsylvania",42085,PA
+Pennsylvania,Mifflin,"Mifflin County, Pennsylvania",42087,PA
+Pennsylvania,Perry,"Perry County, Pennsylvania",42099,PA
+Pennsylvania,Schuylkill,"Schuylkill County, Pennsylvania",42107,PA
+Pennsylvania,Union,"Union County, Pennsylvania",42119,PA
+Pennsylvania,York,"York County, Pennsylvania",42133,PA
+South Carolina,Allendale,"Allendale County, South Carolina",45005,SC
+South Carolina,Bamberg,"Bamberg County, South Carolina",45009,SC
+South Carolina,Clarendon,"Clarendon County, South Carolina",45027,SC
+South Carolina,Colleton,"Colleton County, South Carolina",45029,SC
+South Carolina,Darlington,"Darlington County, South Carolina",45031,SC
+South Carolina,Dillon,"Dillon County, South Carolina",45033,SC
+South Carolina,Dorchester,"Dorchester County, South Carolina",45035,SC
+South Carolina,Florence,"Florence County, South Carolina",45041,SC
+South Carolina,Hampton,"Hampton County, South Carolina",45049,SC
+South Carolina,Horry,"Horry County, South Carolina",45051,SC
+South Carolina,Lee,"Lee County, South Carolina",45061,SC
+South Carolina,Orangeburg,"Orangeburg County, South Carolina",45075,SC
+South Carolina,Sumter,"Sumter County, South Carolina",45085,SC
+South Carolina,Williamsburg,"Williamsburg County, South Carolina",45089,SC
+South Dakota,Brown,"Brown County, South Dakota",46013,SD
+South Dakota,Brule,"Brule County, South Dakota",46015,SD
+South Dakota,Charles Mix,"Charles Mix County, South Dakota",46023,SD
+South Dakota,Clay,"Clay County, South Dakota",46027,SD
+South Dakota,Grant,"Grant County, South Dakota",46051,SD
+South Dakota,Hand,"Hand County, South Dakota",46059,SD
+South Dakota,Lake,"Lake County, South Dakota",46079,SD
+South Dakota,Lincoln,"Lincoln County, South Dakota",46083,SD
+South Dakota,Lyman,"Lyman County, South Dakota",46085,SD
+South Dakota,Mccook,"Mccook County, South Dakota",46087,SD
+South Dakota,Minnehaha,"Minnehaha County, South Dakota",46099,SD
+South Dakota,Spink,"Spink County, South Dakota",46115,SD
+South Dakota,Tripp,"Tripp County, South Dakota",46123,SD
+South Dakota,Turner,"Turner County, South Dakota",46125,SD
+South Dakota,Union,"Union County, South Dakota",46127,SD
+South Dakota,Yankton,"Yankton County, South Dakota",46135,SD
+Tennessee,Bedford,"Bedford County, Tennessee",47003,TN
+Tennessee,Blount,"Blount County, Tennessee",47009,TN
+Tennessee,Cannon,"Cannon County, Tennessee",47015,TN
+Tennessee,Carroll,"Carroll County, Tennessee",47017,TN
+Tennessee,Coffee,"Coffee County, Tennessee",47031,TN
+Tennessee,Crockett,"Crockett County, Tennessee",47033,TN
+Tennessee,Fayette,"Fayette County, Tennessee",47047,TN
+Tennessee,Franklin,"Franklin County, Tennessee",47051,TN
+Tennessee,Gibson,"Gibson County, Tennessee",47053,TN
+Tennessee,Giles,"Giles County, Tennessee",47055,TN
+Tennessee,Haywood,"Haywood County, Tennessee",47075,TN
+Tennessee,Henry,"Henry County, Tennessee",47079,TN
+Tennessee,Lauderdale,"Lauderdale County, Tennessee",47097,TN
+Tennessee,Lawrence,"Lawrence County, Tennessee",47099,TN
+Tennessee,Macon,"Macon County, Tennessee",47111,TN
+Tennessee,Marion,"Marion County, Tennessee",47115,TN
+Tennessee,Monroe,"Monroe County, Tennessee",47123,TN
+Tennessee,Obion,"Obion County, Tennessee",47131,TN
+Tennessee,Robertson,"Robertson County, Tennessee",47147,TN
+Tennessee,Rutherford,"Rutherford County, Tennessee",47149,TN
+Tennessee,Sumner,"Sumner County, Tennessee",47165,TN
+Tennessee,Tipton,"Tipton County, Tennessee",47167,TN
+Tennessee,Weakley,"Weakley County, Tennessee",47183,TN
+Texas,Archer,"Archer County, Texas",48009,TX
+Texas,Armstrong,"Armstrong County, Texas",48011,TX
+Texas,Bell,"Bell County, Texas",48027,TX
+Texas,Bexar,"Bexar County, Texas",48029,TX
+Texas,Calhoun,"Calhoun County, Texas",48057,TX
+Texas,Callahan,"Callahan County, Texas",48059,TX
+Texas,Carson,"Carson County, Texas",48065,TX
+Texas,Clay,"Clay County, Texas",48077,TX
+Texas,Coleman,"Coleman County, Texas",48083,TX
+Texas,Colorado,"Colorado County, Texas",48089,TX
+Texas,Concho,"Concho County, Texas",48095,TX
+Texas,Cooke,"Cooke County, Texas",48097,TX
+Texas,Coryell,"Coryell County, Texas",48099,TX
+Texas,Dallam,"Dallam County, Texas",48111,TX
+Texas,Deaf Smith,"Deaf Smith County, Texas",48117,TX
+Texas,Denton,"Denton County, Texas",48121,TX
+Texas,Ellis,"Ellis County, Texas",48139,TX
+Texas,Fannin,"Fannin County, Texas",48147,TX
+Texas,Fayette,"Fayette County, Texas",48149,TX
+Texas,Grayson,"Grayson County, Texas",48181,TX
+Texas,Hardeman,"Hardeman County, Texas",48197,TX
+Texas,Hill,"Hill County, Texas",48217,TX
+Texas,Jackson,"Jackson County, Texas",48239,TX
+Texas,Johnson,"Johnson County, Texas",48251,TX
+Texas,Jones,"Jones County, Texas",48253,TX
+Texas,Knox,"Knox County, Texas",48275,TX
+Texas,Lamar,"Lamar County, Texas",48277,TX
+Texas,Matagorda,"Matagorda County, Texas",48321,TX
+Texas,Mcculloch,"Mcculloch County, Texas",48307,TX
+Texas,Mclennan,"Mclennan County, Texas",48309,TX
+Texas,Medina,"Medina County, Texas",48325,TX
+Texas,Milam,"Milam County, Texas",48331,TX
+Texas,Moore,"Moore County, Texas",48341,TX
+Texas,Navarro,"Navarro County, Texas",48349,TX
+Texas,Ochiltree,"Ochiltree County, Texas",48357,TX
+Texas,Randall,"Randall County, Texas",48381,TX
+Texas,Runnels,"Runnels County, Texas",48399,TX
+Texas,Sherman,"Sherman County, Texas",48421,TX
+Texas,Taylor,"Taylor County, Texas",48441,TX
+Texas,Tom Green,"Tom Green County, Texas",48451,TX
+Texas,Victoria,"Victoria County, Texas",48469,TX
+Texas,Wharton,"Wharton County, Texas",48481,TX
+Texas,Wichita,"Wichita County, Texas",48485,TX
+Texas,Williamson,"Williamson County, Texas",48491,TX
+Texas,Young,"Young County, Texas",48503,TX
+Virginia,Accomack,"Accomack County, Virginia",51001,VA
+Virginia,Amelia,"Amelia County, Virginia",51007,VA
+Virginia,Caroline,"Caroline County, Virginia",51033,VA
+Virginia,Chesapeake City,"Chesapeake City County, Virginia",51550,VA
+Virginia,Culpeper,"Culpeper County, Virginia",51047,VA
+Virginia,Essex,"Essex County, Virginia",51057,VA
+Virginia,Fauquier,"Fauquier County, Virginia",51061,VA
+Virginia,Franklin,"Franklin County, Virginia",51067,VA
+Virginia,King And Queen,"King And Queen County, Virginia",51097,VA
+Virginia,Madison,"Madison County, Virginia",51113,VA
+Virginia,Middlesex,"Middlesex County, Virginia",51119,VA
+Virginia,Northampton,"Northampton County, Virginia",51131,VA
+Virginia,Northumberland,"Northumberland County, Virginia",51133,VA
+Virginia,Orange,"Orange County, Virginia",51137,VA
+Virginia,Pittsylvania,"Pittsylvania County, Virginia",51143,VA
+Virginia,Rockingham,"Rockingham County, Virginia",51165,VA
+Virginia,Shenandoah,"Shenandoah County, Virginia",51171,VA
+Virginia,Spotsylvania,"Spotsylvania County, Virginia",51177,VA
+Virginia,Suffolk City,"Suffolk City County, Virginia",51800,VA
+Virginia,Surry,"Surry County, Virginia",51181,VA
+Virginia,Westmoreland,"Westmoreland County, Virginia",51193,VA
+Washington,Adams,"Adams County, Washington",53001,WA
+Washington,Columbia,"Columbia County, Washington",53013,WA
+Washington,Douglas,"Douglas County, Washington",53017,WA
+Washington,Walla Walla,"Walla Walla County, Washington",53071,WA
+Washington,Whitman,"Whitman County, Washington",53075,WA
+Wisconsin,Barron,"Barron County, Wisconsin",55005,WI
+Wisconsin,Buffalo,"Buffalo County, Wisconsin",55011,WI
+Wisconsin,Burnett,"Burnett County, Wisconsin",55013,WI
+Wisconsin,Calumet,"Calumet County, Wisconsin",55015,WI
+Wisconsin,Chippewa,"Chippewa County, Wisconsin",55017,WI
+Wisconsin,Columbia,"Columbia County, Wisconsin",55021,WI
+Wisconsin,Crawford,"Crawford County, Wisconsin",55023,WI
+Wisconsin,Dane,"Dane County, Wisconsin",55025,WI
+Wisconsin,Dodge,"Dodge County, Wisconsin",55027,WI
+Wisconsin,Dunn,"Dunn County, Wisconsin",55033,WI
+Wisconsin,Eau Claire,"Eau Claire County, Wisconsin",55035,WI
+Wisconsin,Fond Du Lac,"Fond Du Lac County, Wisconsin",55039,WI
+Wisconsin,Grant,"Grant County, Wisconsin",55043,WI
+Wisconsin,Green Lake,"Green Lake County, Wisconsin",55047,WI
+Wisconsin,Iowa,"Iowa County, Wisconsin",55049,WI
+Wisconsin,Jackson,"Jackson County, Wisconsin",55053,WI
+Wisconsin,Jefferson,"Jefferson County, Wisconsin",55055,WI
+Wisconsin,Juneau,"Juneau County, Wisconsin",55057,WI
+Wisconsin,Kewaunee,"Kewaunee County, Wisconsin",55061,WI
+Wisconsin,La Crosse,"La Crosse County, Wisconsin",55063,WI
+Wisconsin,Lafayette,"Lafayette County, Wisconsin",55065,WI
+Wisconsin,Manitowoc,"Manitowoc County, Wisconsin",55071,WI
+Wisconsin,Marathon,"Marathon County, Wisconsin",55073,WI
+Wisconsin,Monroe,"Monroe County, Wisconsin",55081,WI
+Wisconsin,Oconto,"Oconto County, Wisconsin",55083,WI
+Wisconsin,Outagamie,"Outagamie County, Wisconsin",55087,WI
+Wisconsin,Pepin,"Pepin County, Wisconsin",55091,WI
+Wisconsin,Pierce,"Pierce County, Wisconsin",55093,WI
+Wisconsin,Polk,"Polk County, Wisconsin",55095,WI
+Wisconsin,Portage,"Portage County, Wisconsin",55097,WI
+Wisconsin,Racine,"Racine County, Wisconsin",55101,WI
+Wisconsin,Richland,"Richland County, Wisconsin",55103,WI
+Wisconsin,Rock,"Rock County, Wisconsin",55105,WI
+Wisconsin,Sauk,"Sauk County, Wisconsin",55111,WI
+Wisconsin,Shawano,"Shawano County, Wisconsin",55115,WI
+Wisconsin,Sheboygan,"Sheboygan County, Wisconsin",55117,WI
+Wisconsin,St Croix,"St Croix County, Wisconsin",55109,WI
+Wisconsin,Trempealeau,"Trempealeau County, Wisconsin",55121,WI
+Wisconsin,Vernon,"Vernon County, Wisconsin",55123,WI
+Wisconsin,Walworth,"Walworth County, Wisconsin",55127,WI
+Wisconsin,Washburn,"Washburn County, Wisconsin",55129,WI
+Wisconsin,Washington,"Washington County, Wisconsin",55131,WI
+Wisconsin,Waukesha,"Waukesha County, Wisconsin",55133,WI
+Wisconsin,Waupaca,"Waupaca County, Wisconsin",55135,WI
+Wisconsin,Waushara,"Waushara County, Wisconsin",55137,WI
+Wisconsin,Winnebago,"Winnebago County, Wisconsin",55139,WI
+Wisconsin,Wood,"Wood County, Wisconsin",55141,WI
