@@ -34,7 +34,7 @@ plt.rc('figure', titlesize=20, figsize=(15, 8))  # fontsize of the figure title
 
 #--------------------------------------------------------------------
 # TEMPORARY REASSIGNMENTS!!!!
-#crop_DFs = [[corn_data, 'Corn']]
+#crop_DFs = [[wheat_data, 'Wheat']]
 #--------------------------------------------------------------------
 
 # Create and display a graph with the entire mean yield and entire mean time in drought
@@ -72,7 +72,7 @@ for df in crop_DFs:
 		plt.plot(by_year['Yield Value'].mean())
 		plt.legend(['Average Yield', 'Mean Drought Time'])
 		plt.ylabel('Yield (bu/A)')
-		plt.title('Average '+df[1]+' Yield & Total Drought Time in '+state)
+		plt.title('Average '+df[1]+' Yield & Mean Total Drought Time in '+state)
 
 		plt.subplot(2, 1, 2, sharex=ax)
 		plt.plot(by_year['Total Drought Time'].mean())
