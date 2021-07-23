@@ -76,7 +76,7 @@ def create_drought_data(crop_type):
 									 'Num_Med', 'Periods_M', 'Lengths_M',
 									 'Num_Long', 'Periods_L', 'Lengths_L',
 									 'Total Precipitation',
-									 'Total Short Time', 'Total Med Time', 'Total Long Time',
+									 'Short_Time', 'Med_Time', 'Long_Time',
 									 'Total Drought Time', 'Total Drought Percentage'])
 
 	# Create a new row in the DataFrame for each county/year combination
@@ -117,7 +117,7 @@ def create_wheat_drought_data(yield_df, counties, years, dates, crop_type='wheat
 									 'Num_Med', 'Periods_M', 'Lengths_M',
 									 'Num_Long', 'Periods_L', 'Lengths_L',
 									 'Total Precipitation',
-									 'Total Short Time', 'Total Med Time', 'Total Long Time',
+									 'Short_Time', 'Med_Time', 'Long_Time',
 									 'Total Drought Time', 'Total Drought Percentage'])
 	start_year = years.pop(0)
 
@@ -224,7 +224,7 @@ def calculate_droughts(yield_df, county, state, year, growth_season, weather_df)
 			'Num_Med':num_med, 'Periods_M':periods_m, 'Lengths_M':lengths_m,
 			'Num_Long':num_long, 'Periods_L':periods_l, 'Lengths_L':lengths_l,
 			'Total Precipitation':total_pcpn,
-			'Total Short Time':total_s, 'Total Med Time':total_m, 'Total Long Time':total_l,
+			'Short_Time':total_s, 'Med_Time':total_m, 'Long_Time':total_l,
 			'Total Drought Time':total_drought, 
 			'Total Drought Percentage':total_drought/num_days
 			}

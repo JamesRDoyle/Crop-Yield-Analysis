@@ -33,30 +33,48 @@ plt.rc('figure', titlesize=20, figsize=(15, 8))  # fontsize of the figure title
 
 
 #--------------------------------------------------------------------
-# TEMPORARY REASSIGNMENTS!!!!
+# TEMPORARY REASSIGNMENT!!!!
 #crop_DFs = [[wheat_data, 'Wheat']]
 #--------------------------------------------------------------------
+# Create descriptive statistics for each crop DataFrame
+for df in crop_DFs:
+	print('\nDescriptive statistics for all states for the number \nof short, medium, and long droughts ('+df[1]+' seasons):')
+	columns = ['Num_Short', 'Num_Med', 'Num_Long']
+	print(df[0][columns].describe().to_string())
+
+	print('\nDescriptive statistics for all states for the time spent \nin short, medium, and long length droughts ('+df[1]+' seasons):')
+	columns = ['Short_Time', 'Med_Time', 'Long_Time']
+	print(df[0][columns].describe().to_string())
+
+	print('\nDescriptive statistics for the state average of fraction of time spent in drought per '+df[1]+' season by state:')
+	print(df[0].groupby('State')['Total Drought Percentage'].describe().to_string())
+	
+
 
 # Create and display a graph with the entire mean yield and entire mean time in drought
 for df in crop_DFs:
 	by_year = df[0].groupby(['Year'])
-	ax = plt.subplot(2, 1, 1)
-	plt.plot(by_year['Yield Value'].mean(), label='Average Yield')
+	ax = plt.subplot(3, 1, 1)
+	plt.plot(by_year['Yield Value'].mean(), label='Average Yield', color='green')
 	plt.legend(bbox_to_anchor=(1,1), loc="upper left")
 	plt.ylabel('Yield (bu/A)')
-	plt.title('Average Yield & Average Total Drought Time for '+df[1])
+	plt.title('Average Yield, Average Total Drought Time, & Mean Total Precipitation for '+df[1])
 
-	plt.subplot(2, 1, 2, sharex=ax)
-	plt.plot(by_year['Total Drought Time'].mean(), label='Mean Time in Drought')
-	plt.plot(by_year['Total Short Time'].mean(), label='Mean Time in Short Droughts')
-	plt.plot(by_year['Total Med Time'].mean(), label='Mean Time in Medium Droughts')
-	plt.plot(by_year['Total Long Time'].mean(), label='Mean in Long Droughts')
+	plt.subplot(3, 1, 2, sharex=ax)
+	plt.plot(by_year['Total Drought Time'].mean(), label='Mean Time in Drought', color='red')
+	#plt.plot(by_year['Total Short Time'].mean(), label='Mean Time in Short Droughts')
+	#plt.plot(by_year['Total Med Time'].mean(), label='Mean Time in Medium Droughts')
+	#plt.plot(by_year['Total Long Time'].mean(), label='Mean in Long Droughts')
 	plt.legend(bbox_to_anchor=(1,1), loc="upper left")
 	plt.ylabel('Days in Drought')
 
+	plt.subplot(3, 1, 3, sharex=ax)
+	plt.plot(by_year['Total Precipitation'].mean(), label='Total Precipitation', color='blue')
+	plt.legend(bbox_to_anchor=(1,1), loc="upper left")
+	plt.ylabel('Precipitation (in.)')
+
 	plt.tight_layout()
 	plt.show()
-
 
 
 # Create and display graphs for each state and each crop comparing average 
@@ -68,16 +86,21 @@ for df in crop_DFs:
 		cur_state = crop_DF[crop_DF['State_y']==state]
 		by_year = cur_state.groupby(['Year'])
 
-		ax = plt.subplot(2, 1, 1)
-		plt.plot(by_year['Yield Value'].mean())
-		plt.legend(['Average Yield', 'Mean Drought Time'])
+		ax = plt.subplot(3, 1, 1)
+		plt.plot(by_year['Yield Value'].mean(), label='Average Yield', color='green')
+		plt.legend(bbox_to_anchor=(1,1), loc="upper left")
 		plt.ylabel('Yield (bu/A)')
-		plt.title('Average '+df[1]+' Yield & Mean Total Drought Time in '+state)
+		plt.title('Average '+df[1]+' Yield, Mean Total Drought Time, and Mean Total Precipitation in '+state)
 
-		plt.subplot(2, 1, 2, sharex=ax)
-		plt.plot(by_year['Total Drought Time'].mean())
-		plt.legend(['Mean Drought Time'])
+		plt.subplot(3, 1, 2, sharex=ax)
+		plt.plot(by_year['Total Drought Time'].mean(), label='Mean Drought Time', color='red')
+		plt.legend(bbox_to_anchor=(1,1), loc="upper left")
 		plt.ylabel('Days in Drought')
+
+		plt.subplot(3, 1, 3, sharex=ax)
+		plt.plot(by_year['Total Precipitation'].mean(), label='Mean Total Precipitation', color='blue')
+		plt.legend(bbox_to_anchor=(1,1), loc="upper left")
+		plt.ylabel('Precipitation (in.)')
 
 		plt.tight_layout()
 		plt.show()
