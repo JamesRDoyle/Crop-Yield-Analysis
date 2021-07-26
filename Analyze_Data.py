@@ -1,5 +1,5 @@
 # James Doyle
-# Code to read in processed data and analyze/plot it for my REEU Final Project
+# Code to read in processed data and analyze/plot it as desired
 
 
 # Editable variables
