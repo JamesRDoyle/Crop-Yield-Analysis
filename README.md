@@ -8,4 +8,4 @@ The Read_Data_2.py program uses a custom API call to the Applied Climate Informa
 
 Process_Data.py merges crop yield and weather data into singular files before analysis. This program also calculates drought information such as the number of short, medium, and long length droughts (5-8, 9-14, & 15+ days respectively), the total precipitation, and the amount of time spent in drought. This program utilizes estimated growing seasons for each crop to limit the drought calculations to a certain time span, and these can be edited as needed.
 
-The Analyze_Data.py program brings together the data processed from the other tools into one analysis-focused program. The data is imported into this file and can be edited as desired by the user to do in depth analysis at the total, state, or county level. Some example 
+The Analyze_Data.py program brings together the data processed from the other tools into one analysis-focused program. The data is imported into this file and can be edited as desired by the user to do in depth analysis at the total, state, or county level. Some example graphs and data calculations are provided to guide your own analysis.
